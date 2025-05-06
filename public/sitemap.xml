@@ -28,8 +28,6 @@
         <loc>https://meyvnacademy.vercel.app/coding</loc>
         <priority>0.8</priority>
     </url>
-
-    <!-- Dynamic courses URLs -->
     <url>
         <loc>https://meyvnacademy.vercel.app/course/course-1</loc>
         <priority>0.8</priority>
@@ -42,5 +40,4 @@
         <loc>https://meyvnacademy.vercel.app/course/course-3</loc>
         <priority>0.8</priority>
     </url>
-    <!-- Add more courses dynamically here -->
 </urlset>
