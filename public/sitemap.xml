@@ -20,24 +20,4 @@
         <loc>https://meyvnacademy.vercel.app/blog</loc>
         <priority>0.7</priority>
     </url>
-    <url>
-        <loc>https://meyvnacademy.vercel.app/professional-skills</loc>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://meyvnacademy.vercel.app/coding</loc>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://meyvnacademy.vercel.app/course/course-1</loc>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://meyvnacademy.vercel.app/course/course-2</loc>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://meyvnacademy.vercel.app/course/course-3</loc>
-        <priority>0.8</priority>
-    </url>
 </urlset>
