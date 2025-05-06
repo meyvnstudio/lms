@@ -1,0 +1,21 @@
+{
+    "short_name": "Meyvn",
+    "name": "Meyvn Academy — Professional Skills, Coding, Languages & Exam Prep",
+    "description": "Meyvn Academy is an online learning platform based in Rwanda, specializing in professional skills, coding, languages, exam preparation, and tutoring, with a vision to scale to a world-class level.",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#1D1E26",
+    "theme_color": "#757EFC",
+    "icons": [
+        {
+            "src": "/images/brand/icon.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/brand/icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
